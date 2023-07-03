@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QuadroPaper", "QuadroPaper\QuadroPaper.csproj", "{643B20D3-8738-4930-88BE-D0DDED2C1CAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{643B20D3-8738-4930-88BE-D0DDED2C1CAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643B20D3-8738-4930-88BE-D0DDED2C1CAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643B20D3-8738-4930-88BE-D0DDED2C1CAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643B20D3-8738-4930-88BE-D0DDED2C1CAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C297B3F2-E7D2-4E11-A807-0620002B4F54}
+	EndGlobalSection
+EndGlobal

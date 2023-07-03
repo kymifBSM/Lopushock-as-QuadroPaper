@@ -1,0 +1,48 @@
+C:\Users\user.COMP-02\Desktop\Вариант 1\Сессия 1\QuadroPaper\QuadroPaper\QuadroPaper\bin\Debug\QuadroPaper.exe.config
+C:\Users\user.COMP-02\Desktop\Вариант 1\Сессия 1\QuadroPaper\QuadroPaper\QuadroPaper\bin\Debug\QuadroPaper.exe
+C:\Users\user.COMP-02\Desktop\Вариант 1\Сессия 1\QuadroPaper\QuadroPaper\QuadroPaper\bin\Debug\QuadroPaper.pdb
+C:\Users\user.COMP-02\Desktop\Вариант 1\Сессия 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper.csproj.AssemblyReference.cache
+C:\Users\user.COMP-02\Desktop\Вариант 1\Сессия 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper.csproj.SuggestedBindingRedirects.cache
+C:\Users\user.COMP-02\Desktop\Вариант 1\Сессия 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\MainWindow.g.cs
+C:\Users\user.COMP-02\Desktop\Вариант 1\Сессия 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\App.g.cs
+C:\Users\user.COMP-02\Desktop\Вариант 1\Сессия 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper_MarkupCompile.cache
+C:\Users\user.COMP-02\Desktop\Вариант 1\Сессия 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper_MarkupCompile.lref
+C:\Users\user.COMP-02\Desktop\Вариант 1\Сессия 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\MainWindow.baml
+C:\Users\user.COMP-02\Desktop\Вариант 1\Сессия 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper.g.resources
+C:\Users\user.COMP-02\Desktop\Вариант 1\Сессия 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper.Properties.Resources.resources
+C:\Users\user.COMP-02\Desktop\Вариант 1\Сессия 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper.csproj.GenerateResource.cache
+C:\Users\user.COMP-02\Desktop\Вариант 1\Сессия 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper.csproj.CoreCompileInputs.cache
+C:\Users\user.COMP-02\Desktop\Вариант 1\Сессия 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper.exe
+C:\Users\user.COMP-02\Desktop\Вариант 1\Сессия 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper.pdb
+C:\Users\user.COMP-02\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\bin\Debug\QuadroPaper.exe.config
+C:\Users\user.COMP-02\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\bin\Debug\QuadroPaper.exe
+C:\Users\user.COMP-02\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\bin\Debug\QuadroPaper.pdb
+C:\Users\user.COMP-02\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper.csproj.AssemblyReference.cache
+C:\Users\user.COMP-02\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper.csproj.SuggestedBindingRedirects.cache
+C:\Users\user.COMP-02\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\MainWindow.g.cs
+C:\Users\user.COMP-02\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\App.g.cs
+C:\Users\user.COMP-02\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper_MarkupCompile.cache
+C:\Users\user.COMP-02\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper_MarkupCompile.lref
+C:\Users\user.COMP-02\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\MainWindow.baml
+C:\Users\user.COMP-02\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper.g.resources
+C:\Users\user.COMP-02\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper.Properties.Resources.resources
+C:\Users\user.COMP-02\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper.csproj.GenerateResource.cache
+C:\Users\user.COMP-02\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper.csproj.CoreCompileInputs.cache
+C:\Users\user.COMP-02\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper.exe
+C:\Users\user.COMP-02\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper.pdb
+C:\Users\kymifBSM\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper.csproj.AssemblyReference.cache
+C:\Users\kymifBSM\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper.csproj.SuggestedBindingRedirects.cache
+C:\Users\kymifBSM\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\App.g.cs
+C:\Users\kymifBSM\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper_MarkupCompile.cache
+C:\Users\kymifBSM\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper.exe
+C:\Users\kymifBSM\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper.pdb
+C:\Users\kymifBSM\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\bin\Debug\QuadroPaper.exe.config
+C:\Users\kymifBSM\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\bin\Debug\QuadroPaper.exe
+C:\Users\kymifBSM\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\bin\Debug\QuadroPaper.pdb
+C:\Users\kymifBSM\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\MainWindow.g.cs
+C:\Users\kymifBSM\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper_MarkupCompile.lref
+C:\Users\kymifBSM\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\MainWindow.baml
+C:\Users\kymifBSM\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper.g.resources
+C:\Users\kymifBSM\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper.Properties.Resources.resources
+C:\Users\kymifBSM\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper.csproj.GenerateResource.cache
+C:\Users\kymifBSM\Desktop\Вариант 1\QuadroPaper\QuadroPaper\QuadroPaper\obj\Debug\QuadroPaper.csproj.CoreCompileInputs.cache
